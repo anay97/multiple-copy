@@ -6,3 +6,5 @@ Plan of action:
 Create a index.php file
 It will act as admin login for the program
 it will show the list of all the users present with their details(in tabular form)
+
+https://www.wi.tum.de/programs/master-in-management/
